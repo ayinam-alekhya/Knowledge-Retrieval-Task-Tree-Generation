@@ -1,0 +1,23 @@
+Random Action Results:
+Episode 1: Fail - 30 steps
+Episode 2: Fail - 30 steps
+Episode 3: Pass - 23 steps
+Episode 4: Fail - 30 steps
+Episode 5: Fail - 30 steps
+Episode 6: Fail - 30 steps
+Episode 7: Fail - 30 steps
+Episode 8: Fail - 30 steps
+Episode 9: Fail - 30 steps
+Episode 10: Fail - 30 steps
+
+Q-Learning Results:
+Episode 1: Fail - 30 steps
+Episode 2: Pass - 16 steps
+Episode 3: Fail - 30 steps
+Episode 4: Fail - 30 steps
+Episode 5: Fail - 30 steps
+Episode 6: Fail - 30 steps
+Episode 7: Pass - 15 steps
+Episode 8: Fail - 30 steps
+Episode 9: Pass - 4 steps
+Episode 10: Fail - 30 steps

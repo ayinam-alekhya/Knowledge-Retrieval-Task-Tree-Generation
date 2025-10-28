@@ -1,0 +1,23 @@
+Random Mixes: 
+Episode 1: Fail
+Episode 2: Fail
+Episode 3: Fail
+Episode 4: Fail
+Episode 5: Fail
+Episode 6: Fail
+Episode 7: Fail
+Episode 8: Fail
+Episode 9: Fail
+Episode 10: Fail
+
+Q-Learning Mixes: 
+Episode 1: Fail
+Episode 2: Fail
+Episode 3: Fail
+Episode 4: Fail
+Episode 5: Fail
+Episode 6: Fail
+Episode 7: Fail
+Episode 8: Fail
+Episode 9: Fail
+Episode 10: Fail

@@ -1,0 +1,102 @@
+Episode 1: Failed
+Episode 2: Success in 13 steps
+Episode 3: Failed
+Episode 4: Failed
+Episode 5: Success in 19 steps
+Episode 6: Success in 11 steps
+Episode 7: Failed
+Episode 8: Failed
+Episode 9: Success in 16 steps
+Episode 10: Success in 7 steps
+Episode 11: Failed
+Episode 12: Failed
+Episode 13: Success in 20 steps
+Episode 14: Success in 24 steps
+Episode 15: Failed
+Episode 16: Failed
+Episode 17: Failed
+Episode 18: Success in 22 steps
+Episode 19: Failed
+Episode 20: Success in 14 steps
+Episode 21: Failed
+Episode 22: Failed
+Episode 23: Success in 17 steps
+Episode 24: Success in 5 steps
+Episode 25: Failed
+Episode 26: Failed
+Episode 27: Success in 12 steps
+Episode 28: Success in 19 steps
+Episode 29: Failed
+Episode 30: Failed
+Episode 31: Success in 22 steps
+Episode 32: Failed
+Episode 33: Success in 23 steps
+Episode 34: Success in 14 steps
+Episode 35: Failed
+Episode 36: Success in 18 steps
+Episode 37: Failed
+Episode 38: Failed
+Episode 39: Failed
+Episode 40: Failed
+Episode 41: Success in 2 steps
+Episode 42: Success in 13 steps
+Episode 43: Failed
+Episode 44: Success in 17 steps
+Episode 45: Failed
+Episode 46: Failed
+Episode 47: Failed
+Episode 48: Success in 15 steps
+Episode 49: Success in 7 steps
+Episode 50: Failed
+Episode 51: Failed
+Episode 52: Failed
+Episode 53: Failed
+Episode 54: Failed
+Episode 55: Success in 10 steps
+Episode 56: Failed
+Episode 57: Success in 6 steps
+Episode 58: Failed
+Episode 59: Failed
+Episode 60: Failed
+Episode 61: Success in 15 steps
+Episode 62: Failed
+Episode 63: Success in 14 steps
+Episode 64: Success in 16 steps
+Episode 65: Failed
+Episode 66: Failed
+Episode 67: Success in 27 steps
+Episode 68: Success in 11 steps
+Episode 69: Failed
+Episode 70: Failed
+Episode 71: Failed
+Episode 72: Failed
+Episode 73: Success in 17 steps
+Episode 74: Failed
+Episode 75: Failed
+Episode 76: Success in 22 steps
+Episode 77: Failed
+Episode 78: Failed
+Episode 79: Failed
+Episode 80: Success in 15 steps
+Episode 81: Failed
+Episode 82: Success in 13 steps
+Episode 83: Success in 26 steps
+Episode 84: Failed
+Episode 85: Failed
+Episode 86: Failed
+Episode 87: Success in 14 steps
+Episode 88: Success in 11 steps
+Episode 89: Success in 8 steps
+Episode 90: Success in 25 steps
+Episode 91: Failed
+Episode 92: Failed
+Episode 93: Success in 10 steps
+Episode 94: Success in 16 steps
+Episode 95: Failed
+Episode 96: Failed
+Episode 97: Failed
+Episode 98: Success in 11 steps
+Episode 99: Failed
+Episode 100: Failed
+
+Total Successful Trials: 41 out of 100
