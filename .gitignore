@@ -3,3 +3,7 @@
 *.mov
 *.mp4
 
+
+# Ignore large videos
+*.mp4
+*.mov
